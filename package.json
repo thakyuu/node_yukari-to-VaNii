@@ -8,7 +8,8 @@
   "author": "thakyuu",
   "license": "MIT",
   "dependencies": {
-    "iconv-lite": "^0.4.24"
+    "iconv-lite": "^0.4.24",
+    "node-osc": "^4.1.0"
   },
   "devDependencies": {},
   "repository": {

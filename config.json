@@ -1,0 +1,12 @@
+{
+	"osc": {
+		"targetAddress": "127.0.0.1",
+		"targetPort": "39972",
+		"address": {
+			"reload": "/VaNiiMenu/TweetPhraseReload"
+		}
+	},
+	"template": {
+		"path": "path/to/template.json"
+	}
+}
