@@ -1,0 +1,23 @@
+{
+  "name": "node_yukari-to-vanii",
+  "version": "1.0.0",
+  "main": "node_yukari-to-VaNii.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thakyuu",
+  "license": "MIT",
+  "dependencies": {
+    "iconv-lite": "^0.4.24"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thakyuu/node_yukari-to-VaNii.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thakyuu/node_yukari-to-VaNii/issues"
+  },
+  "homepage": "https://github.com/thakyuu/node_yukari-to-VaNii#readme",
+  "description": ""
+}
