@@ -37,7 +37,7 @@ https://twitter.com/thakyuu/status/1130133778658054144
 ```
 {
 	"configVersion": "0.0.1",
-  ↑触らない事
+  　　　　↑触らない事
   
 	"osc": {
 		"targetAddress": "127.0.0.1",
@@ -46,18 +46,18 @@ https://twitter.com/thakyuu/status/1130133778658054144
 			"reload": "/VaNiiMenu/TweetPhraseReload"
 		}
 	},
-  ↑
-  通常変更する必要はありません。
+  　　　　↑
+  　　　　通常変更する必要はありません。
   
 	"template": {
 		"path": "path/to/template.json",
-    ↑
-    VaNiiMenuのTemplate.jsonの場所を指定します
+    　　　　　　　↑
+    　　　　　　　VaNiiMenuのTemplate.jsonの場所を指定します
     
 		"page": 19
-    ↑
-    動的に書き換えるページを指定します
-    初期値の19では、導入直後のVaNiiMenuの最終ページの後ろに新規のページを挿入して利用します
+    　　　　　　　↑
+    　　　　　　　動的に書き換えるページを指定します
+    　　　　　　　初期値の19では、導入直後のVaNiiMenuの最終ページの後ろに新規のページを挿入して利用します
 	}
 }
 ```
