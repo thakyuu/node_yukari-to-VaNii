@@ -19,6 +19,9 @@ https://twitter.com/thakyuu/status/1130133778658054144
 ### 前提
 * ゆかりねっとで音声認識できるところまでセットアップ済み
 * VaNiiMenu v0.11d以上を導入済み
+* Releaseページからツールをダウンロードし、任意のフォルダに保存済み
+
+https://github.com/thakyuu/node_yukari-to-VaNii/releases/tag/v0.0.1
 
 ### 使用手順
 1. `config.json`の`"path": "path/to/template.json",`の箇所にVaNiiMenuのディレクトリにある`Template.json`を指定します
