@@ -4,7 +4,7 @@
 
 ゆかりねっとで認識した直近9件の発言をVaNiiMenuのtemplate.jsonに登録するフィルタです
 
-VaNiiMenuのTweet機能において、ゆかりねっとでの音声認識での入力が可能になります
+VaNiiMenuのTweet機能において、ゆかりねっとの音声認識での入力が可能になります
 
 ### 参考動画
 https://twitter.com/thakyuu/status/1130133778658054144
