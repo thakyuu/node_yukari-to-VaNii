@@ -1,4 +1,5 @@
 {
+	"configVersion": "0.0.1",
 	"osc": {
 		"targetAddress": "127.0.0.1",
 		"targetPort": "39972",
@@ -7,6 +8,7 @@
 		}
 	},
 	"template": {
-		"path": "path/to/template.json"
+		"path": "path/to/template.json",
+		"page": 19
 	}
 }
